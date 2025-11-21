@@ -1,0 +1,28 @@
+name,type,battery_type,battery_qty
+Dining room fire alarm,Fire Alarm,9V,1
+Family room clock,Clock,AAA,1
+Family room door,Entry Sensor,CR2032,1
+Family room window E,Entry Sensor,CR2032,1
+Family room window SE,Entry Sensor,CR2032,1
+Family room window SW,Entry Sensor,CR2032,1
+Front door lock,Door Lock,AA,4
+Garage side door,Entry Sensor,CR2032,1
+Hallway bathroom window,Entry Sensor,CR2032,1
+Hallway fire alarm,Fire Alarm,9V,1
+Hallway motion detector,Motion Sensor,123,1
+Kitchen window,Entry Sensor,CR2032,1
+Living room door,Entry Sensor,CR2032,1
+Living room glass detector,Glass Break Sensor,123,1
+Living room keypad,Keypad,AA,4
+Living room motion detector,Motion Sensor,123,1
+Living room window NE,Entry Sensor,CR2032,1
+Living room window NW,Entry Sensor,CR2032,1
+Master bathroom window,Entry Sensor,CR2032,1
+Master bedroom keypad,Keypad,AA,4
+Master bedroom window E,Entry Sensor,CR2032,1
+Master bedroom window N,Entry Sensor,CR2032,1
+Office window,Entry Sensor,CR2032,1
+Roku remote control,Remote Control,AAA,2
+Second bedroom window E,Entry Sensor,CR2032,1
+Second bedroom window S,Entry Sensor,CR2032,1
+TV remote control,Remote Control,AAA,2
