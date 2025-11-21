@@ -1,6 +1,6 @@
 # Batteries
 
-SQLite application to keep track of the useage and inventory of batteries in every home device that uses batteries. Access to the database is made through a Python layer.
+SQLite application to keep track of the usage and inventory of batteries in every home device that uses batteries. Access to the database is made through a Python layer.
 
 ## Modules
 This application uses the `sqlite3` Python module to create a conneciton with the database, and the `tabulate` module to pretty-print the reports in table format. Both modules are imported at the beggining of our `batteries.py` file.
